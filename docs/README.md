@@ -2,6 +2,9 @@
 
 Welcome to the React-Native-Wallet documentation. This repository contains comprehensive information about the React-Native-Wallet application, including its architecture, setup instructions, API references, and user guides.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3fa2eaf5-fd3e-45cd-a9ca-fb7ed7a5683f" />
+
+
 ## Table of Contents
 
 1. [System Architecture](./system-architecture.md)
@@ -44,6 +47,16 @@ For developers new to the project, we recommend starting with the [Setup Guide](
 
 End users should refer to the [User Guide](./user-guide.md) for instructions on using the application.
 
+## 🧑‍🍳 App Features Overview
+
+🔐 Authentication with email verification using Clerk
+📝 Signup & Login flows with 6-digit email code
+🏠 Home Screen that shows your current balance & past transactions
+➕ Create Screen to add income or expense transactions
+🔄 Pull to refresh functionality from scratch
+🗑️ Delete transactions to update balance
+🚪 Logout to navigate back to login screen
+
 ## Technical Stack
 
 - **Frontend**: React Native, Expo
@@ -59,3 +72,4 @@ Please refer to the [Development Guide](./development-guide.md) for information 
 ## Support
 
 For issues and support, please create an issue in the GitHub repository or contact the development team.
+
